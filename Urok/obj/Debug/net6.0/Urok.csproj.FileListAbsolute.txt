@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\bin\Debug\net6.0\Urok.exe
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\bin\Debug\net6.0\Urok.deps.json
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\bin\Debug\net6.0\Urok.runtimeconfig.json
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\bin\Debug\net6.0\Urok.dll
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\bin\Debug\net6.0\Urok.pdb
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.dll
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\refint\Urok.dll
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.pdb
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\Urok.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Deniss Gorjunov TARpv22\Urok\obj\Debug\net6.0\ref\Urok.dll

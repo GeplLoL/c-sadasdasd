@@ -1,0 +1,10 @@
+﻿Valgamaa-Valga
+Harjumaa-Tallinn
+Ida_Virumaa-Jõhvi
+Raplamaa-Rapla
+Põlvamaa-Põlva
+Tartumaa-Tartu
+Võrumaa-Võru
+Viljandimaa-Viljandi
+Saaremaa-Saarema
+Pärnumaa-Pärnu
